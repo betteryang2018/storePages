@@ -38,7 +38,7 @@ $(document).ready(function() {
     }
     
     //标注点数组
-    var markerArr = [{title:"威有（东莞）网络技术有限公司",content:"东莞市大朗镇康丽路辉煌大厦B610",point:"113.921303|22.964356",isOpen:1,icon:{w:23,h:25,l:46,t:21,x:9,lb:12}}
+    var markerArr = [{title:"**网络技术有限公司",content:"东莞市**********",point:"113.921303|22.964356",isOpen:1,icon:{w:23,h:25,l:46,t:21,x:9,lb:12}}
          ];
     //创建marker
     function addMarker(){
